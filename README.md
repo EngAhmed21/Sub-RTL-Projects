@@ -1,8 +1,8 @@
 # Sub-RTL-Projects
 
-This repo contains some RTL designs or sub-tasks using Verilog whichare ranked from easiest to most difficult. Each design covers a topic/concept in using Verilog in RTL design. 
+This repo contains some RTL designs or sub-tasks using Verilog which are ranked from easiest to most difficult. Each design covers a topic/concept in using Verilog in RTL design. 
 
-This repo is a practice of using Verilog in an RTL design or refresh of concepts you have in mind. It is also good to know about these various designs and understand how they work as they are frequently used in most of the projects and large designs.
+This repo is a practice of using Verilog in RTL design or a refresh of concepts you have in mind. It is also good to know about these various designs and understand how they work as they are frequently used in most of the projects and large designs.
 
 You will find all the specs attached with each design.
 
