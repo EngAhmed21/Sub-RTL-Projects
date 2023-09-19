@@ -43,7 +43,7 @@ The topics/concepts covered:
 4- Generate block
 5- Procedural assignment 
 6- Behavioural modelling 
-7- Condition Statements
+7- Conditional Statements
 8- Operators 
 9- For loop
 10- Non blocking assignment 
