@@ -1,3 +1,5 @@
+# MUX
+
 A MUX (Multiplexer) is a data selector that selects between several input signals and forwards the selected input to a single output line. The selection is directed by a separate set of digital inputs known as select lines. 
 
 This design is for a generic 4x1 MUX with the following specs:
