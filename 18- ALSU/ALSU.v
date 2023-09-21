@@ -67,9 +67,9 @@ module ALSU #(parameter BITS = 3, INPUT_PRIORITY = "A", FULL_ADDER = "ON") (
                     out_next = A_reg * B_reg;
                 3'b100:                                                         // SHIFT         
                     if (sh_left_reg)
-                        out_next = {out_reg [BITS - 2 : 0], SI};
+                        out_next = {out_reg [BITS - 2 : 0], SI_reg};
                     else
-                        out_next = {SI, out_reg [BITS - 1 : 1]};
+                        out_next = {SI_reg, out_reg [BITS - 1 : 1]};
                 3'b101:                                                         // ROTATE         
                     if(sh_left_reg)
                         out_next = {out_reg [BITS - 2 : 0], out_reg [BITS - 1]};
