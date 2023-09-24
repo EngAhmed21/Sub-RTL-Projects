@@ -24,6 +24,6 @@ Design Specs:
   1. Opcode bits are set to 110 or 111                                                                                                     
   2. red_op_A or red_op_B are set to high and the opcode is not AND or XOR operation                                                                                                     
      
-- Output when invalid cases occurs                                                                                                     
+- Output when invalid cases occurs:                                                                                                     
   1. leds are blinking                                                                                                     
   2. out bits are set to low                                                                                                     
