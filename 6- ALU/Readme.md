@@ -11,4 +11,4 @@ opcode is the input which chooses the operation to be performed
 ![Screenshot (619)](https://github.com/EngAhmed21/Sub-RTL-Projects/assets/90782588/17f3e7f4-0cdf-49b2-8ac5-8a51f1d97bf8)
 
 This design is for a simple ALU which performs 4 operations:
-![Screenshot (620)](https://github.com/EngAhmed21/Sub-RTL-Projects/assets/90782588/c553bd23-eeab-491a-a202-8cb90c288647)
+![Screenshot (621)](https://github.com/EngAhmed21/Sub-RTL-Projects/assets/90782588/af99c3d8-8d9e-4cd8-8dac-b66cdf5a713e)
