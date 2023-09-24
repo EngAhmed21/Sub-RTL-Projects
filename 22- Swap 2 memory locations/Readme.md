@@ -1,6 +1,6 @@
 ## Swap 2 memory locations 
 
-This design is for swapping 2 memory locations using FSM.
+This design is for swapping 2 locations in a register file using FSM.
 
 Design Implementation:                                                           
 ![Screenshot (638)](https://github.com/EngAhmed21/Sub-RTL-Projects/assets/90782588/703806ea-62c4-491f-83af-a026df1bf6ef)
