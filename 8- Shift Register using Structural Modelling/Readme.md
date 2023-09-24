@@ -5,7 +5,7 @@ They share a single clock signal, which causes the data stored in the system to 
 ![R](https://github.com/EngAhmed21/Sub-RTL-Projects/assets/90782588/a6876fdd-4363-42d5-afaf-f469bda49d83)
 
 Design Specs:                                                                                                                                   
-This is the design of a generic shift register                                                                                                                                   
+This is the design of a generic SISO (serial input serial output) shift register                                                                                                                                   
 Parameter (WIDTH) >> specifies the width of the register                                                                                                                                   
 Inputs >> clk, rstn, SI                                                                                                                                   
 Outputs >> SO                                                                                                                                   
